@@ -4,7 +4,7 @@ Volt is a voice-friendly industrial assistant with a Next.js 3D avatar frontend 
 
 ## Tech Stack
 
-- **Frontend:** Next.js 16, React 19, TypeScript, Three.js, React Three Fiber, `@react-three/drei`
+- **Frontend:** Next.js 16, React 19, TypeScript`
 - **Backend:** Python, FastAPI, Uvicorn, Pydantic
 - **Agent orchestration:** LangGraph `StateGraph`, conditional routing, typed state, message reducers
 - **LLM:** Groq through LangChain (`openai/gpt-oss-120b`)
